@@ -14,3 +14,9 @@ h2{
     border-bottom: 2px solid navy;
     padding-bottom: 5px;
 }
+
+.devise {
+    font-style: italic;
+    text-align: center;
+    color: #666;
+}
